@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">GuiaParis</string>
+    <string name="todo">TODO</string>
+    <string name="guia_paris">guia paris</string>
+    <string name="where_would_you_like_to_go">where would you like to go?</string>
+    <string name="go">GO</string>
+
+    <string-array name = "Locations">
+        <item>Torre Eifel</item>
+        <item>Museo de Louvre</item>
+        <item>Catedral de Notre Dame</item>
+        <item>Trocadero</item>
+
+    </string-array>
+</resources>
